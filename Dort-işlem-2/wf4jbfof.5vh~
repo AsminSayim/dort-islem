@@ -1,0 +1,162 @@
+﻿namespace Dort_işlem_2
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lblSayi1 = new System.Windows.Forms.Label();
+            this.lblSayi2 = new System.Windows.Forms.Label();
+            this.txtSayi1 = new System.Windows.Forms.TextBox();
+            this.txtSayi2 = new System.Windows.Forms.TextBox();
+            this.btnHesapla = new System.Windows.Forms.Button();
+            this.lblBolum = new System.Windows.Forms.Label();
+            this.lblCarpım = new System.Windows.Forms.Label();
+            this.lblFark = new System.Windows.Forms.Label();
+            this.lblToplam = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lblSayi1
+            // 
+            this.lblSayi1.AutoSize = true;
+            this.lblSayi1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblSayi1.Location = new System.Drawing.Point(23, 28);
+            this.lblSayi1.Name = "lblSayi1";
+            this.lblSayi1.Size = new System.Drawing.Size(71, 25);
+            this.lblSayi1.TabIndex = 0;
+            this.lblSayi1.Text = "Sayı1";
+            // 
+            // lblSayi2
+            // 
+            this.lblSayi2.AutoSize = true;
+            this.lblSayi2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblSayi2.Location = new System.Drawing.Point(23, 65);
+            this.lblSayi2.Name = "lblSayi2";
+            this.lblSayi2.Size = new System.Drawing.Size(71, 25);
+            this.lblSayi2.TabIndex = 1;
+            this.lblSayi2.Text = "Sayı2";
+            // 
+            // txtSayi1
+            // 
+            this.txtSayi1.Location = new System.Drawing.Point(117, 28);
+            this.txtSayi1.Name = "txtSayi1";
+            this.txtSayi1.Size = new System.Drawing.Size(100, 20);
+            this.txtSayi1.TabIndex = 2;
+            // 
+            // txtSayi2
+            // 
+            this.txtSayi2.Location = new System.Drawing.Point(117, 70);
+            this.txtSayi2.Name = "txtSayi2";
+            this.txtSayi2.Size = new System.Drawing.Size(100, 20);
+            this.txtSayi2.TabIndex = 3;
+            // 
+            // btnHesapla
+            // 
+            this.btnHesapla.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnHesapla.Location = new System.Drawing.Point(117, 106);
+            this.btnHesapla.Name = "btnHesapla";
+            this.btnHesapla.Size = new System.Drawing.Size(100, 33);
+            this.btnHesapla.TabIndex = 4;
+            this.btnHesapla.Text = "Hesapla";
+            this.btnHesapla.UseVisualStyleBackColor = true;
+            this.btnHesapla.Click += new System.EventHandler(this.btnHesapla_Click);
+            // 
+            // lblBolum
+            // 
+            this.lblBolum.AutoSize = true;
+            this.lblBolum.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblBolum.Location = new System.Drawing.Point(250, 106);
+            this.lblBolum.Name = "lblBolum";
+            this.lblBolum.Size = new System.Drawing.Size(77, 25);
+            this.lblBolum.TabIndex = 5;
+            this.lblBolum.Text = "Bölüm";
+            // 
+            // lblCarpım
+            // 
+            this.lblCarpım.AutoSize = true;
+            this.lblCarpım.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblCarpım.Location = new System.Drawing.Point(250, 78);
+            this.lblCarpım.Name = "lblCarpım";
+            this.lblCarpım.Size = new System.Drawing.Size(86, 25);
+            this.lblCarpım.TabIndex = 6;
+            this.lblCarpım.Text = "Çarpım";
+            // 
+            // lblFark
+            // 
+            this.lblFark.AutoSize = true;
+            this.lblFark.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblFark.Location = new System.Drawing.Point(250, 53);
+            this.lblFark.Name = "lblFark";
+            this.lblFark.Size = new System.Drawing.Size(66, 25);
+            this.lblFark.TabIndex = 7;
+            this.lblFark.Text = "Fark:";
+            // 
+            // lblToplam
+            // 
+            this.lblToplam.AutoSize = true;
+            this.lblToplam.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblToplam.Location = new System.Drawing.Point(250, 28);
+            this.lblToplam.Name = "lblToplam";
+            this.lblToplam.Size = new System.Drawing.Size(96, 25);
+            this.lblToplam.TabIndex = 8;
+            this.lblToplam.Text = "Toplam:";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(515, 358);
+            this.Controls.Add(this.lblToplam);
+            this.Controls.Add(this.lblFark);
+            this.Controls.Add(this.lblCarpım);
+            this.Controls.Add(this.lblBolum);
+            this.Controls.Add(this.btnHesapla);
+            this.Controls.Add(this.txtSayi2);
+            this.Controls.Add(this.txtSayi1);
+            this.Controls.Add(this.lblSayi2);
+            this.Controls.Add(this.lblSayi1);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label lblSayi1;
+        private System.Windows.Forms.Label lblSayi2;
+        private System.Windows.Forms.TextBox txtSayi1;
+        private System.Windows.Forms.TextBox txtSayi2;
+        private System.Windows.Forms.Button btnHesapla;
+        private System.Windows.Forms.Label lblBolum;
+        private System.Windows.Forms.Label lblCarpım;
+        private System.Windows.Forms.Label lblFark;
+        private System.Windows.Forms.Label lblToplam;
+    }
+}
+

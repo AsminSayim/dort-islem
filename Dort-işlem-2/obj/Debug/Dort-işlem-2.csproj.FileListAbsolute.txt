@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\bin\Debug\Dort-işlem-2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\bin\Debug\Dort-işlem-2.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\bin\Debug\Dort-işlem-2.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\obj\Debug\Dort-işlem-2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\obj\Debug\Dort-işlem-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\obj\Debug\Dort_işlem_2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\obj\Debug\Dort_işlem_2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\obj\Debug\Dort-işlem-2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\obj\Debug\Dort-işlem-2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\obj\Debug\Dort-işlem-2.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Dort-işlem-2\Dort-işlem-2\obj\Debug\Dort-işlem-2.pdb
